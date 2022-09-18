@@ -37,4 +37,3 @@
 
 <h2></h2>
 <p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>
-
