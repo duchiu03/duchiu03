@@ -27,5 +27,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=223ftcs7mqn56zm3bqfuld7fa)
 
+[![Spotify](https://spotify-readme-eight-rust.vercel.app//api/spotify)](https://open.spotify.com/user/223ftcs7mqn56zm3bqfuld7fa)
+
 <p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>
 
