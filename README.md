@@ -10,7 +10,7 @@
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </div>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About me:</h2>
 
 - :house: I’m currently living in **Vietnam :vietnam:**
 
@@ -27,15 +27,15 @@
 <a href="https://www.hackerrank.com/@hieuteo03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hieuteo03" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">:hammer_and_wrench: Languages and Tools:</h2>
+<h2 align="left">:hammer_and_wrench: Languages and tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchiu03&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=duchiu03&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duchiu03&theme=midnight-purple&hide_border=true)<br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=duchiu03)  
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=duchiu03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 <h2>:headphones: Now playing:</h2>
 
