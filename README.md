@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hieuteo03" target="blank"><img src="https://img.shields.io/twitter/follow/hieuteo03?logo=twitter&style=for-the-badge" alt="hieuteo03" /></a> </p>
 
-- ⚡ Fun fact **Introvert, but ... talk a lot(sometimes)**
+- ⚡ Fun fact: **Introvert, but ... talk a lot(sometimes)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
