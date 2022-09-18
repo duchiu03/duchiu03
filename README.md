@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hieu Nguyen</h1>
-<h3 align="center">Just at the start line :)</h3>
+<h1 align="center">Hi 👋, Hieu Nguyen is here</h1>
+<h3 align="center">Just at the start</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehieu2003&label=Profile%20views&color=0e75b6&style=plastic" alt="dehieu2003" /> </p>
 
@@ -24,10 +24,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dehieu2003&theme=dark" alt="dehieu2003" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=223ftcs7mqn56zm3bqfuld7fa)
 
-[![Spotify](https://spotify-readme-eight-rust.vercel.app//api/spotify)](https://open.spotify.com/user/223ftcs7mqn56zm3bqfuld7fa)
 
 <p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>
 
