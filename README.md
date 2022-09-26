@@ -5,11 +5,6 @@
   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 </div>
 
-<h2>:zzz: Random memes</h2>
-<div align="center">
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</div>
-
 <h2 align="left">👨🏻‍💻 About me:</h2>
 
 - :house: I’m currently living in **Vietnam :vietnam:**
@@ -39,7 +34,7 @@
 
 <h2>:headphones: Now playing:</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=default&bar_color_cover=false&bar_color=8ff0a4)](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true)
 
 <h2></h2>
 <p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>
