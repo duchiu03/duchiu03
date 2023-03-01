@@ -9,7 +9,7 @@
 
 - :house: I’m currently living in **Vietnam :vietnam:**
 
-- 🌱 I’m currently learning: **Linux, Unity, C#, and ... maybe I'll find something new**
+- 🌱 I’m currently learning: **trading**
 
 - 📄 Know about my experiences: **well, times will tell...not now 🥲**
 
