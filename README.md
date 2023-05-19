@@ -28,9 +28,9 @@
 # 📊 GitHub stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchiu03&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=duchiu03&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=duchiu03&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=duchiu03&theme=github-com&hide_border=true)<br/>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=duchiu03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+<!-- [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=duchiu03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <h2>:headphones: Now playing:</h2>
 
