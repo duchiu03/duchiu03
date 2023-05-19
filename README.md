@@ -37,4 +37,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=default&bar_color_cover=false&bar_color=8ff0a4)](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true)
 
 <h2></h2>
-<p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>
+<!--<p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>-->
