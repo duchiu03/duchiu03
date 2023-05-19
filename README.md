@@ -28,7 +28,7 @@
 # 📊 GitHub stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duchiu03&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=duchiu03&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=duchiu03&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=duchiu03&theme=midnight-purple&hide_border=true)<br/>
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=duchiu03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
@@ -36,5 +36,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&cover_image=true&theme=default&bar_color_cover=false&bar_color=8ff0a4)](https://spotify-github-profile.vercel.app/api/view?uid=223ftcs7mqn56zm3bqfuld7fa&redirect=true)
 
-<h2></h2>
 <!--<p><img src="https://github.com/itstommi/itstommi/raw/main/Gradients.png"<p>-->
