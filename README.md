@@ -7,13 +7,11 @@
 
 <h2 align="left">👨🏻‍💻 About me:</h2>
 
-- :house: I’m currently living in **Vietnam :vietnam:**
+- :house: **Vietnam :vietnam:**
 
-- 🌱 I’m currently learning: **trading**
+- 🌱 **Trading**
 
-- 📄 Know about my experiences: **well, times will tell...not now 🥲**
-
-- ⚡ Fun fact: **Introvert, but ... talk a lot(sometimes) 🙄**
+- 📄 Experiences: **Unknown**
 
 <h2 align="left">:raising_hand_man: Connect with me:</h2>
 <p align="left">
